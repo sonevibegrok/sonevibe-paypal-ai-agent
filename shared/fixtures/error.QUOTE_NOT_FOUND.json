@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "QUOTE_NOT_FOUND",
+    "message": "That quote could not be found.",
+    "retryable": false,
+    "requestId": "req_mock_quote_not_found"
+  }
+}

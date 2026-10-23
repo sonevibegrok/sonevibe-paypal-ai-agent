@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "RATE_LIMITED",
+    "message": "Too many requests. Please wait a moment and try again.",
+    "retryable": true,
+    "requestId": "req_mock_rate_limited"
+  }
+}

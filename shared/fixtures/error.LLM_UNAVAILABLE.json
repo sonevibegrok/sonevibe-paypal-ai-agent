@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "LLM_UNAVAILABLE",
+    "message": "The assistant is unavailable right now. Please try again.",
+    "retryable": true,
+    "requestId": "req_mock_llm_unavailable"
+  }
+}

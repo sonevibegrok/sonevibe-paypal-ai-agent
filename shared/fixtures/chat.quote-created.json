@@ -1,0 +1,52 @@
+{
+  "reply": "I drafted a **security** quote.\n\n- MOCK Security review\n- Quantity 1\n\n[Open the draft quote](#/quote/q_mock_0001)",
+  "quote": {
+    "id": "q_mock_0001",
+    "status": "draft",
+    "currency": "USD",
+    "catalogVersion": "2026-10-23.1",
+    "items": [
+      {
+        "serviceId": "svc_security_mock",
+        "category": "security",
+        "name": "MOCK Security review",
+        "unit": "engagement",
+        "quantity": 1,
+        "unitPrice": "100.00",
+        "lineTotal": "100.00"
+      }
+    ],
+    "subtotal": "100.00",
+    "total": "100.00",
+    "pricingComplete": true,
+    "paymentMethod": null,
+    "expiresAt": "2026-10-24T14:40:00Z",
+    "createdAt": "2026-10-23T14:40:00Z",
+    "updatedAt": "2026-10-23T14:40:00Z",
+    "paypal": {
+      "orderId": null,
+      "orderStatus": null,
+      "captureId": null,
+      "captureStatus": null,
+      "invoiceId": null,
+      "invoiceStatus": null,
+      "payerViewUrl": null
+    },
+    "failure": null,
+    "sandbox": true
+  },
+  "toolEvents": [
+    {
+      "type": "catalog_searched",
+      "label": "Checked the service catalog"
+    },
+    {
+      "type": "quote_created",
+      "label": "Prepared a draft quote"
+    },
+    {
+      "type": "checkout_suggested",
+      "label": "You can review and accept the quote"
+    }
+  ]
+}

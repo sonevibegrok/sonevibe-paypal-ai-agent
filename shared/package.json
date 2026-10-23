@@ -1,0 +1,20 @@
+{
+  "name": "@sonevibe/shared",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Zod schemas, TypeScript types, and JSON fixtures for the SoneVibe services API contract.",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "lint": "tsc --noEmit --pretty false"
+  },
+  "dependencies": {
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  }
+}

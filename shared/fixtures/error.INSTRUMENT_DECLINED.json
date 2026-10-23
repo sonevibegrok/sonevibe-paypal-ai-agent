@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "INSTRUMENT_DECLINED",
+    "message": "That sandbox funding source was declined. Try another one.",
+    "retryable": true,
+    "requestId": "req_mock_instrument_declined"
+  }
+}

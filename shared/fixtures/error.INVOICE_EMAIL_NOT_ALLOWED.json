@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "INVOICE_EMAIL_NOT_ALLOWED",
+    "message": "Invoices can only be sent to a PayPal sandbox email address.",
+    "retryable": false,
+    "requestId": "req_mock_invoice_email_not_allowed"
+  }
+}

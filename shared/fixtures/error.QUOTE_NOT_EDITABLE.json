@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "QUOTE_NOT_EDITABLE",
+    "message": "This quote can no longer be edited.",
+    "retryable": false,
+    "requestId": "req_mock_quote_not_editable"
+  }
+}

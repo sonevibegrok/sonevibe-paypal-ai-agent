@@ -1,0 +1,38 @@
+{
+  "paypalClientId": "SANDBOX_CLIENT_ID",
+  "environment": "sandbox",
+  "currency": "USD",
+  "catalogVersion": "2026-10-23.1",
+  "pricingComplete": false,
+  "quoteTtlHours": 24,
+  "terms": null,
+  "services": [
+    {
+      "id": "svc_research_tbd",
+      "category": "research",
+      "name": "[PLACEHOLDER]",
+      "unit": "[PLACEHOLDER]",
+      "price": null,
+      "description": "[PLACEHOLDER]",
+      "deliveryDays": null
+    },
+    {
+      "id": "svc_security_tbd",
+      "category": "security",
+      "name": "[PLACEHOLDER]",
+      "unit": "[PLACEHOLDER]",
+      "price": null,
+      "description": "[PLACEHOLDER]",
+      "deliveryDays": null
+    },
+    {
+      "id": "svc_marketing_tbd",
+      "category": "marketing",
+      "name": "[PLACEHOLDER]",
+      "unit": "[PLACEHOLDER]",
+      "price": null,
+      "description": "[PLACEHOLDER]",
+      "deliveryDays": null
+    }
+  ]
+}

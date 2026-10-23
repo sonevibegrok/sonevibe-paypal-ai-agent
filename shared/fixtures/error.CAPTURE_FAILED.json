@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "CAPTURE_FAILED",
+    "message": "The sandbox payment could not be captured.",
+    "retryable": true,
+    "requestId": "req_mock_capture_failed"
+  }
+}

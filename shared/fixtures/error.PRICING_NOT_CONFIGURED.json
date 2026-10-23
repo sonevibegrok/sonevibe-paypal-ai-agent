@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "PRICING_NOT_CONFIGURED",
+    "message": "Pricing is not configured yet, so this quote cannot be accepted.",
+    "retryable": false,
+    "requestId": "req_mock_pricing_not_configured"
+  }
+}

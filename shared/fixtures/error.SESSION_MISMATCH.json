@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "SESSION_MISMATCH",
+    "message": "This quote belongs to a different session. Start a new quote to continue.",
+    "retryable": false,
+    "requestId": "req_mock_session_mismatch"
+  }
+}

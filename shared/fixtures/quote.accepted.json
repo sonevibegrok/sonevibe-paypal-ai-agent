@@ -1,0 +1,35 @@
+{
+  "id": "q_mock_0001",
+  "status": "accepted",
+  "currency": "USD",
+  "catalogVersion": "2026-10-23.1",
+  "items": [
+    {
+      "serviceId": "svc_security_mock",
+      "category": "security",
+      "name": "MOCK Security review",
+      "unit": "engagement",
+      "quantity": 1,
+      "unitPrice": "100.00",
+      "lineTotal": "100.00"
+    }
+  ],
+  "subtotal": "100.00",
+  "total": "100.00",
+  "pricingComplete": true,
+  "paymentMethod": null,
+  "expiresAt": "2026-10-24T14:40:00Z",
+  "createdAt": "2026-10-23T14:40:00Z",
+  "updatedAt": "2026-10-23T15:00:00Z",
+  "paypal": {
+    "orderId": null,
+    "orderStatus": null,
+    "captureId": null,
+    "captureStatus": null,
+    "invoiceId": null,
+    "invoiceStatus": null,
+    "payerViewUrl": null
+  },
+  "failure": null,
+  "sandbox": true
+}

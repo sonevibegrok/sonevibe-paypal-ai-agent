@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "ALREADY_CAPTURED",
+    "message": "This quote is already paid in the sandbox. Open the receipt.",
+    "retryable": false,
+    "requestId": "req_mock_already_captured"
+  }
+}

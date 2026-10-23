@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "QUOTE_EXPIRED",
+    "message": "This quote expired. Ask the assistant for a new one.",
+    "retryable": false,
+    "requestId": "req_mock_quote_expired"
+  }
+}

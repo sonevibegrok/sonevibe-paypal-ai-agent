@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "LLM_RATE_LIMITED",
+    "message": "The assistant is busy. Please try again in a few seconds.",
+    "retryable": true,
+    "requestId": "req_mock_llm_rate_limited"
+  }
+}

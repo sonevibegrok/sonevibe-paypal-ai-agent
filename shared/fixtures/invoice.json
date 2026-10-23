@@ -1,0 +1,40 @@
+{
+  "invoiceId": "INV2-MOCK-0001",
+  "status": "SENT",
+  "payerViewUrl": "https://example.invalid/mock-invoice/INV2-MOCK-0001",
+  "quote": {
+    "id": "q_mock_0003",
+    "status": "invoiced",
+    "currency": "USD",
+    "catalogVersion": "2026-10-23.1",
+    "items": [
+      {
+        "serviceId": "svc_security_mock",
+        "category": "security",
+        "name": "MOCK Security review",
+        "unit": "engagement",
+        "quantity": 1,
+        "unitPrice": "100.00",
+        "lineTotal": "100.00"
+      }
+    ],
+    "subtotal": "100.00",
+    "total": "100.00",
+    "pricingComplete": true,
+    "paymentMethod": "invoice",
+    "expiresAt": "2026-10-24T14:40:00Z",
+    "createdAt": "2026-10-23T14:40:00Z",
+    "updatedAt": "2026-10-23T15:20:00Z",
+    "paypal": {
+      "orderId": null,
+      "orderStatus": null,
+      "captureId": null,
+      "captureStatus": null,
+      "invoiceId": "INV2-MOCK-0001",
+      "invoiceStatus": "SENT",
+      "payerViewUrl": "https://example.invalid/mock-invoice/INV2-MOCK-0001"
+    },
+    "failure": null,
+    "sandbox": true
+  }
+}

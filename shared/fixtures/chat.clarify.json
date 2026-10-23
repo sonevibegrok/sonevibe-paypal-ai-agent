@@ -1,0 +1,10 @@
+{
+  "reply": "Happy to help. I can quote **research**, **security**, and **marketing** work.\n\n- Research\n- Security\n- Marketing\n\nWhich do you need?",
+  "quote": null,
+  "toolEvents": [
+    {
+      "type": "catalog_searched",
+      "label": "Checked the service catalog"
+    }
+  ]
+}

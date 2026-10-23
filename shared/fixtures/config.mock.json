@@ -1,0 +1,47 @@
+{
+  "paypalClientId": "MOCK",
+  "environment": "sandbox",
+  "currency": "USD",
+  "catalogVersion": "2026-10-23.1",
+  "pricingComplete": true,
+  "quoteTtlHours": 24,
+  "terms": null,
+  "services": [
+    {
+      "id": "svc_research_mock",
+      "category": "research",
+      "name": "MOCK Research brief",
+      "unit": "engagement",
+      "price": "100.00",
+      "description": "MOCK research service for local development only.",
+      "deliveryDays": 5
+    },
+    {
+      "id": "svc_security_mock",
+      "category": "security",
+      "name": "MOCK Security review",
+      "unit": "engagement",
+      "price": "100.00",
+      "description": "MOCK security service for local development only.",
+      "deliveryDays": 7
+    },
+    {
+      "id": "svc_marketing_mock",
+      "category": "marketing",
+      "name": "MOCK Marketing plan",
+      "unit": "engagement",
+      "price": "100.00",
+      "description": "MOCK marketing service for local development only.",
+      "deliveryDays": 4
+    },
+    {
+      "id": "svc_placeholder_mock",
+      "category": "research",
+      "name": "[PLACEHOLDER]",
+      "unit": "[PLACEHOLDER]",
+      "price": null,
+      "description": "[PLACEHOLDER]",
+      "deliveryDays": null
+    }
+  ]
+}

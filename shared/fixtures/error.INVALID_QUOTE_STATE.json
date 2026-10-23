@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "INVALID_QUOTE_STATE",
+    "message": "That action is not available for this quote right now.",
+    "retryable": false,
+    "requestId": "req_mock_invalid_quote_state"
+  }
+}

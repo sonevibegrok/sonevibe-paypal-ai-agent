@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "PAYPAL_UNAVAILABLE",
+    "message": "PayPal sandbox is unavailable right now. Please try again.",
+    "retryable": true,
+    "requestId": "req_mock_paypal_unavailable"
+  }
+}

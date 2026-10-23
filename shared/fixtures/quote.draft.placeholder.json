@@ -1,0 +1,35 @@
+{
+  "id": "q_mock_0006",
+  "status": "draft",
+  "currency": "USD",
+  "catalogVersion": "2026-10-23.1",
+  "items": [
+    {
+      "serviceId": "svc_placeholder_mock",
+      "category": "research",
+      "name": "[PLACEHOLDER]",
+      "unit": "[PLACEHOLDER]",
+      "quantity": 1,
+      "unitPrice": null,
+      "lineTotal": null
+    }
+  ],
+  "subtotal": null,
+  "total": null,
+  "pricingComplete": false,
+  "paymentMethod": null,
+  "expiresAt": "2026-10-24T14:40:00Z",
+  "createdAt": "2026-10-23T14:40:00Z",
+  "updatedAt": "2026-10-23T14:40:00Z",
+  "paypal": {
+    "orderId": null,
+    "orderStatus": null,
+    "captureId": null,
+    "captureStatus": null,
+    "invoiceId": null,
+    "invoiceStatus": null,
+    "payerViewUrl": null
+  },
+  "failure": null,
+  "sandbox": true
+}

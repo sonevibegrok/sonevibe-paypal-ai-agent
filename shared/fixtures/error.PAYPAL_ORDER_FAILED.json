@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "PAYPAL_ORDER_FAILED",
+    "message": "PayPal sandbox could not start the checkout. Please try again.",
+    "retryable": true,
+    "requestId": "req_mock_paypal_order_failed"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "environment": "sandbox",
+  "version": "0.1.0",
+  "mock": false,
+  "llm": "ready",
+  "webhooks": "enabled"
+}

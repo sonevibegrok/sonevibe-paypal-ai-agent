@@ -1,0 +1,22 @@
+{
+  "name": "sonevibe-paypal-ai-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "SoneVibe services quote and PayPal sandbox checkout for the PayPal AI Hackathon.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.19"
+  },
+  "workspaces": [
+    "shared",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w frontend",
+    "build": "npm run typecheck -w shared && npm run build -w frontend",
+    "lint": "npm run lint -w frontend",
+    "typecheck": "npm run typecheck -w shared && npm run typecheck -w frontend",
+    "test": "npm run test -w frontend"
+  }
+}

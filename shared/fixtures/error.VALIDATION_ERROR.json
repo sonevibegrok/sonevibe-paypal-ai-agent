@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "VALIDATION_ERROR",
+    "message": "Some of the information sent was not valid. Check it and try again.",
+    "retryable": false,
+    "requestId": "req_mock_validation_error"
+  }
+}
